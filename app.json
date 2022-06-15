@@ -1,6 +1,6 @@
 {
   "name": "somethreemy",
-  "description": "For step forward",
+  "description": "For step forward.",
     "env": {
      "ENCRYPT": {
       "description": "default bond",
@@ -26,5 +26,7 @@
        "value": "/sgiet"
      }
   },
+  "website": "",
+  "repository": "",
   "stack": "container"
  }
